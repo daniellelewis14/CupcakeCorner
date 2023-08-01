@@ -13,6 +13,7 @@
 		719D78CE2A74313600CE5976 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 719D78CD2A74313600CE5976 /* Preview Assets.xcassets */; };
 		71C8ADD02A7977040082AC9F /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C8ADCF2A7977040082AC9F /* Order.swift */; };
 		71C8ADD22A797D350082AC9F /* AddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C8ADD12A797D350082AC9F /* AddressView.swift */; };
+		71C8ADD42A79810A0082AC9F /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71C8ADD32A79810A0082AC9F /* CheckoutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		719D78CD2A74313600CE5976 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		71C8ADCF2A7977040082AC9F /* Order.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
 		71C8ADD12A797D350082AC9F /* AddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressView.swift; sourceTree = "<group>"; };
+		71C8ADD32A79810A0082AC9F /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				719D78C82A74312F00CE5976 /* ContentView.swift */,
 				71C8ADD12A797D350082AC9F /* AddressView.swift */,
 				71C8ADCF2A7977040082AC9F /* Order.swift */,
+				71C8ADD32A79810A0082AC9F /* CheckoutView.swift */,
 				719D78CA2A74313600CE5976 /* Assets.xcassets */,
 				719D78CC2A74313600CE5976 /* Preview Content */,
 			);
@@ -145,6 +148,7 @@
 			files = (
 				71C8ADD02A7977040082AC9F /* Order.swift in Sources */,
 				71C8ADD22A797D350082AC9F /* AddressView.swift in Sources */,
+				71C8ADD42A79810A0082AC9F /* CheckoutView.swift in Sources */,
 				719D78C92A74312F00CE5976 /* ContentView.swift in Sources */,
 				719D78C72A74312F00CE5976 /* CupcakeCornerApp.swift in Sources */,
 			);
